@@ -2,12 +2,17 @@ Hi there 👋
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bongiwe-qanda-3b56203bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 * 🔭 I'm a Software Engineering student at WeThinkCode, based in Cape Town, South Africa.
 * 🌱 I'm building toward a career as a Data Engineer → ML Engineer, working with Python, SQL, and cloud data tools
 * 💻 I build with Java, Python, and Node.js, and I'm sharpening my data engineering and analytics skills (Power BI, data pipelines)
 * 📊 I'm fascinated by turning messy data into something useful — pipelines, dashboards, and eventually ML systems
-* 📫 How to reach me: [bongiweqanda13@gmail.com/www.linkedin.com/in/bongiwe-qanda-3b56203bb]
+* 📫 How to reach me: [bongiweqanda13@gmail.com](mailto:bongiweqanda13@gmail.com) or [LinkedIn](https://www.linkedin.com/in/bongiwe-qanda-3b56203bb)
 
 🛠️ Languages and Tools:
 

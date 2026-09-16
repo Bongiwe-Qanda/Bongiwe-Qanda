@@ -1,4 +1,7 @@
 Hi there 👋
+<p align="center">
+  <img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="300"/>
+</p>
 
 * 🔭 I'm a Software Engineering student at WeThinkCode, based in Cape Town, South Africa.
 * 🌱 I'm building toward a career as a Data Engineer → ML Engineer, working with Python, SQL, and cloud data tools

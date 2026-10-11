@@ -13,7 +13,7 @@ Hi there 👋
 * 🌱 I'm building toward a career as a Data Scientist, working with Python, SQL, and cloud data tools.
 * 💻 I build with Java, Python and I'm sharpening my data engineering and data science skills.
 * 📊 I'm fascinated by turning messy data into something useful — pipelines, dashboards, and eventually ML systems.
-* 📫 How to reach me: [bongiweqanda13@gmail.com](mailto:bongiweqanda13@gmail.com) or [LinkedIn](https://www.linkedin.com/in/bongiwe-qanda-3b56203bb)
+* 📫 How to reach me: [bongiweqanda13@gmail.com](mailto:bongiweqanda87@gmail.com) or [LinkedIn](https://www.linkedin.com/in/bongiwe-qanda-3b56203bb)
 
 🛠️ Languages and Tools:
 
